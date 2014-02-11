@@ -1,3 +1,0 @@
-JCModel is a small, simple framework intended to make writing Model layers in iOS a little easier. Currently, it's main purpose is to allow for easier JSON mapping using JCPropertyMapper, a JSON mapper that maps NSDictaionaries to NSObjects using the objective-c runtime. I created this mapper for the sake of easily specifying mappings using PList files, and having a simple, easy to understand dot syntax for nested attributes.
-
-I've only used this library in two projects so far, so I doubt it will cover most edge cases (Value transforming in particular is very limited). However, I plan to expand on this soon, and it can be a great starting point for your own opject mapper if you wish to fork it.

@@ -1,1 +1,0 @@
-../../NSObjectProperties/Classes/NSObject+Properties.h
