@@ -1,0 +1,1 @@
+../../JCModel/Classes/Core/JCPropertyMapper.h

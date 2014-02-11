@@ -1,0 +1,1 @@
+../../JCModel/Classes/AFNetworking/JCResponseSerializer.h
